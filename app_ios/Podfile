@@ -1,0 +1,12 @@
+platform :ios, '9.0'
+use_frameworks!
+
+target 'app_ios' do
+
+pod 'KHAForm'
+pod 'Alamofire'
+pod 'SwiftyJSON'
+pod 'ObjectMapper'
+
+end
+

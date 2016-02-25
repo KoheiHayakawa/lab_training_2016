@@ -1,0 +1,6 @@
+framework module KHAForm {
+  umbrella header "KHAForm-umbrella.h"
+
+  export *
+  module * { export * }
+}
